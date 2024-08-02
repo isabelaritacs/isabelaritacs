@@ -1,4 +1,10 @@
-## Hi there 👋
+# bem vindo ao meu perfil! 😄
+
+meu nome é isabela 
+
+sou estudante do 1 série do ensino médio
+
+
 
 <!--
 **isabelaritacs/isabelaritacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
